@@ -22,4 +22,8 @@
 
 ▶Android-RestAPI-master_final	IoT_Cloudflatform	 // 안드로이드에서 사물 목록 조회, 상태 조회/변경, 사물로그 확인
 <br>
+-> activity_device // 아두이노 센서값 (led, motor, 일산화탄소) 조회, MOTOR의 db값을 변경하여 ON/OFF 제어 하기 위한 xml <br>
+->GetThingShadow.java // Device Shadow를 통해 tag 이름의 센서값을 각각 받아옴 <br>
+->DeviceActivity.java // 변경을 위해 입력한 Motor값을 db로 넘김<br>
+->GetLog.java // 각 태그 이름에 맞는 센서값을 가져옴 <br>
 ▶RecordingDeviceDataJavaProject2  // eclipse lamda함수를 통해 AWS DB와 연동
