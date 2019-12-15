@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android-ResAPI</string>
+    <string name="device_state">디바이스 최신 상태</string>
+    <string name="co">일산화탄소: </string>
+    <string name="led">LED 상태: </string>
+    <string name="motor">MOTOR 상태: </string>
+</resources>
