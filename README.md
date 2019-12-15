@@ -9,3 +9,10 @@
 안드로이드에서 사물목록 조회를 할 수 있고 사물(일산화탄소, LED, MOTOR)의 상태 조회할 수 있으며 MOTOR의 ON/OFF 를
 변경할 수 있도록 하였다. 또한, 사물로그 조회도 가능하다.
 
+<br>
+
+AWS_IoT_Smoking	IoT_Cloudflatform  // 아두이노 센서값 AWS DB에 업로드
+
+Android-RestAPI-master_final	IoT_Cloudflatform	 // 안드로이드에서 사물 목록 조회, 상태 조회/변경, 사물로그 확인
+
+RecordingDeviceDataJavaProject2  // eclipse lamda함수를 통해 AWS DB와 연동
