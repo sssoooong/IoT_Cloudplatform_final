@@ -26,4 +26,5 @@
 ->GetThingShadow.java // Device Shadow를 통해 tag 이름의 센서값을 각각 받아옴 <br>
 ->DeviceActivity.java // 변경을 위해 입력한 Motor값을 db로 넘김<br>
 ->GetLog.java // 각 태그 이름에 맞는 센서값을 가져옴 <br>
+<br>
 ▶RecordingDeviceDataJavaProject2  // eclipse lamda함수를 통해 AWS DB와 연동
