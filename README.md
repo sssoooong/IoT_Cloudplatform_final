@@ -18,9 +18,8 @@
 ->Led.h  //  Led 관련 헤더파일<br>
 ->Motor.cpp  //  motor pinMode 설정, Motor.h의 함수를 이용한 motor on/off 제어<br>
 ->Motor.h  //  모터에 관련 헤더파일<br>
-->arduino_secrets.h  //  인증서 등록, 데이터 연결<br><br>
-
+->arduino_secrets.h  //  인증서 등록, 데이터 연결<br>
 
 ▶Android-RestAPI-master_final	IoT_Cloudflatform	 // 안드로이드에서 사물 목록 조회, 상태 조회/변경, 사물로그 확인
-<br><br>
+<br>
 ▶RecordingDeviceDataJavaProject2  // eclipse lamda함수를 통해 AWS DB와 연동
