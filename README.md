@@ -12,6 +12,14 @@
 <br>
 
 AWS_IoT_Smoking	IoT_Cloudflatform  // 아두이노 센서값 AWS DB에 업로드
+<br>
+->AWS_IoT_Smoking  //  센서값을 tag Name과 함께 db에 보내고 특정 db 값에 따라 모터와 led가 제어된다. <br>
+->Led.cpp  //  led pinMode 설정, led on/off 제어<br>
+->Led.h  //  Led 관련 헤더파일<br>
+->Motor.cpp  //  motor pinMode 설정, motor on/off 제어<br>
+->Motor.h  //  모터에 관련 헤더파일<br>
+->arduino_secrets.h  //  인증서 등록, 데이터 연결<br>
+
 
 Android-RestAPI-master_final	IoT_Cloudflatform	 // 안드로이드에서 사물 목록 조회, 상태 조회/변경, 사물로그 확인
 
